@@ -1,0 +1,22 @@
+@font-face
+{
+    font-family: inception;
+    src: url('fonts/Inception_free.ttf');
+}
+h1{
+	font-family: inception !important;
+	font-size:55px;
+	text-align:center;
+	font-weight: :700;
+	color: #DA3634;
+}
+
+body{
+	background-color: #EEEEEE;
+}
+#red-button{
+	display:block;
+	margin: 25px auto 0 auto;
+	width:300px;
+	height: 300px;
+}
